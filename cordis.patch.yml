@@ -1,0 +1,9 @@
+- insert:
+    - id: welcome-greeting
+      name: 'dsh-welcome-greeting'
+      config:
+        city: ''
+        showCity: false
+        showWeather: false
+        showTemp: false
+        refreshMinutes: 15

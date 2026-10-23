@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Welcome Greeting",
+    "description": "Rewrites the New Session headline into a short affectionate greeting written by the selected model from the time of day, the current city and the live weather."
+  }
+}
