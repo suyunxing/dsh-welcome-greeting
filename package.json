@@ -2,7 +2,7 @@
   "name": "dsh-welcome-greeting",
   "version": "1.0.0",
   "type": "module",
-  "description": "Time, place and weather aware welcome headline for the New Session hero.",
+  "description": "Rewrites the New Session headline into a short affectionate greeting written by the selected model from the local time, city and live weather.",
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
@@ -16,7 +16,6 @@
     "locale/*.json",
     "icon.svg",
     "README.md",
-    "README.zh.md",
     "LICENSE",
     "icon-180.png"
   ],
